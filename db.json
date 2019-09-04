@@ -1,0 +1,22 @@
+{
+	"system": "SAP S/4HANA",
+	"link_doc": "http://www.google.com",
+	"select": "ProductName,UnitPrice",
+	"product": {
+		"product_id": "8",
+		"product_group": "SKU",
+		"created_on": "01.01.2019",
+		"created_by" :
+			{
+	"first_name":"John",
+	"last_name": "Snow"
+			}
+	},
+	"approver_a1": {
+		"id":"S0004692099",
+		"name":"Vlad Klimov",
+		"email": "Vladislav.Klimov@jti.com",
+		"entity": 1216,
+		"decision": ""
+	}
+}
